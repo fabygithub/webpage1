@@ -44,6 +44,9 @@ font awesome package manager
   carpeta scss
   style.scss
   
+  npm run complile:sass
+  
+  sass --watch scss:assets/css
   
 
 
