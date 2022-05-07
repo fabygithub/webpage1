@@ -22,7 +22,21 @@ npm install --save-dev sass
 bootstrap get
 
 
+npm install bootstrap --save
 
+font awesome/start
+
+font awesome package manager
+
+ The Free Package
+ 
+ npm install --save @fortawesome/fontawesome-free
+
+ npmjs
+ 
+ autoprefixer
+ 
+ 
 
 
 
