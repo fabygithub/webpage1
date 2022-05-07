@@ -36,7 +36,8 @@ font awesome package manager
  
  autoprefixer
  
- 
+ npm install postcss-cli autoprefixer --save
+
 
 
 
