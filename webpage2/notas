@@ -37,6 +37,15 @@ font awesome package manager
  autoprefixer
  
  npm install postcss-cli autoprefixer --save
+ 
+  package.json
+  "compile:sass" : "sass scss" 
+  
+  carpeta scss
+  style.scss
+  
+  
+
 
 
 
