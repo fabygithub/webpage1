@@ -48,6 +48,12 @@ font awesome package manager
   
   sass --watch scss:assets/css
   
+$primary : #ff0;
+
+.test-1{
+    color : $primary;
+}
+
 
 
 
