@@ -54,7 +54,22 @@ $primary : #ff0;
     color : $primary;
 }
 
+15
 
+npm run compile:sass
+open git bash
+
+style.css.map
+
+package json
+
+"compile:sass": "sass --watch scss:assets/css" 
+
+npm run compile:sass
+
+style.scss
+
+$primary : #ff0000;
 
 
 
