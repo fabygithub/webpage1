@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=iJKCj8uAHz8&ab_channel=freeCodeCamp.org
-10
+5
+
+create a new folder
+
+
+install node
+open bash
 
 node --version
 node -v
